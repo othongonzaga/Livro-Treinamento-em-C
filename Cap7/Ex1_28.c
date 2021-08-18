@@ -29,7 +29,7 @@ Exercício 4. Qual é o elemento da matriz referenciado por esta expressão?
 
 	mat[4]
 
-	Resposta: A dúvida mais comum quando se trabalha com matriz é a do índice. O elemento referenciado é o quarto elemento.
+	Resposta: A dúvida mais comum quando se trabalha com matriz é a do índice. O elemento referenciado é o quinto elemento.
 
 Exercício 5. Qual é a diferença entre os números "3" destas duas instruções?
 
